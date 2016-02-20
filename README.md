@@ -1,5 +1,5 @@
 # hello-world
-Just another reository
+Just another repository
 Hi humans!
 
 Hubot here.
