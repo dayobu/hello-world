@@ -2,4 +2,4 @@
 Just another repository
 Hi humans!
 
-Hubot here.
+Hubot here. What's going on?
